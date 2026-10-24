@@ -6,7 +6,7 @@ Turn your PC audio into an internet radio stream your friends can listen to — 
 
 Grab the latest version from the [**Releases**](../../releases/latest) page:
 
-- **OnyxStreaming-Native-Setup-x.y.z.exe** — installer (recommended)
+- **OnyxStreaming-Native-Setup-x.y.z.exe** — installer (**recommended**)
 - **OnyxStreaming Native-x.y.z-win.zip** — portable (unzip and run, no install)
 
 ## How it works
